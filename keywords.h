@@ -1,5 +1,6 @@
 #define 整型 int
 #define 长 long
+#define 长整型 long long
 #define 浮点数 double
 #define 字符 char
 #define 无符号 unsigned
@@ -25,3 +26,6 @@
 #define 右值引用 &&
 #define 主程序 int main(int argc, char **argv)
 #define 返回 return
+#define 尝试执行 try
+#define 捕捉 catch
+#define 抛出异常 throw

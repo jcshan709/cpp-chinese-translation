@@ -7,5 +7,6 @@
 #define 向量 std::vector
 #define 输出 std::cout
 #define 输入 std::cin
+#define 错误输出 std::cerr
 #define 换行 std::endl
 #define 异常 std::exception
