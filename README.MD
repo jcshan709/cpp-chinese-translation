@@ -8,7 +8,4 @@
 经测试，`Visual Studio`可以通过编译，但Linux下的`GNU C++(g++)`不可以
 
 # 贡献
-欢迎对此项目作出贡献，你的名字会被写进下面的列表中  
-|名字|贡献|
-|-|-|
-|sjc0910/Junchao Shan|所有者&翻译贡献|
+详见[CONTRIBUTING.md](https://gitlab.com/sjc0910/cpp-chinese-translation/-/blob/master/-/blob/master/CONTRIBUTING.md)
