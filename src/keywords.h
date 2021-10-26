@@ -29,3 +29,17 @@
 #define 尝试执行 try
 #define 捕捉 catch
 #define 抛出异常 throw
+#define 访问域中 ::
+#define 全局 ::
+#define 静态 static
+#define 自动类型 auto
+#define 获取类型 decltype
+#define 严格自动类型 decltype(auto)
+#define 模板 template
+#define 类型名称 typename
+#define 公共 public
+#define 私有 private
+#define 保护 protected
+#define 空类型 void
+#define 空指针 nullptr
+#define 定义类型 typedef
