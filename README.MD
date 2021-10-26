@@ -8,4 +8,4 @@
 经测试，`Visual Studio`可以通过编译，但Linux下的`GNU C++(g++)`不可以
 
 # 贡献
-详见[CONTRIBUTING.md](https://gitlab.com/sjc0910/cpp-chinese-translation/-/blob/master/-/blob/master/CONTRIBUTING.md)
+详见CONTRIBUTING.md
